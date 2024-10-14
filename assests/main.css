@@ -222,6 +222,10 @@ ol li img{
   display: contents;
   
 }  
+#aboutUs img{
+    width:20vw;
+    height:30vh;
+}
 #startAbout{
   display: none;
 }
