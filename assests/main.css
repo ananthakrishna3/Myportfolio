@@ -220,11 +220,14 @@ ol li img{
 
 #contd{
   display: contents;
-  
+  margin-left:1%;
 }  
 #aboutUs img{
-    width:20vw !important;
-    height:30vh !important;
+    width:28vw !important;
+    height:25vh !important;
+}
+#aboutUs p{
+    font-size:15px;
 }
 #startAbout{
   display: none;
