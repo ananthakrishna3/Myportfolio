@@ -209,6 +209,10 @@ ol li img{
 #contd{
   display: none;
 }
+#aboutUs{
+  justify-content: space-between !important;
+
+}
 
 /* Make sure arrows size well on smaller screens */
 @media (max-width: 768px) {
