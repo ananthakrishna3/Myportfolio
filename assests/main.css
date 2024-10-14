@@ -228,6 +228,8 @@ ol li img{
 }
 #aboutUs p{
     font-size:15px;
+    justify-content:center;
+    padding:1%;
 }
 #startAbout{
   display: none;
