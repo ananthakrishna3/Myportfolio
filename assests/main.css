@@ -217,6 +217,11 @@ ol li img{
 
 
     }
+
+#contd{
+  display: contents;
+  
+}  
 #startAbout{
   display: none;
 }
