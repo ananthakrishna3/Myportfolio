@@ -223,8 +223,8 @@ ol li img{
   
 }  
 #aboutUs img{
-    width:20vw;
-    height:30vh;
+    width:20vw !important;
+    height:30vh !important;
 }
 #startAbout{
   display: none;
