@@ -289,7 +289,7 @@ a {
   height: auto;
   text-align: center;
   transition: 750ms;
-  border-radius: 2em 0em 0em 2em;
+  border-radius: 2em 2em 2em 2em;
   margin-left: 5% !important;
 }
 
@@ -381,8 +381,8 @@ a {
     border-radius: 28px;
   }
   #aboutUs p{
-    margin-left: 5vw;
-    margin-right: 5vw;
+    margin-left: 5.5vw !important;
+    margin-right: 5.5vw !important;
     justify-content: center;
     align-items: center;
   }
