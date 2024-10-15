@@ -124,7 +124,7 @@ display: none;
 
 p{
   margin-top: 0vh;
-  margin-left: 1em;
+  
   align-items: center;
   justify-content: center;
 }
@@ -228,13 +228,13 @@ ol li img{
   margin-left:1%;
 }  
 #aboutUs img{
-    width:28vw !important;
-    height:21vh !important;
+    width:23vw !important;
+    height:20vh !important;
 }
 #aboutUs p{
-    font-size:15px;
-    justify-content:center;
-    padding:2%;
+    font-size:15px !important;
+    justify-content:center !important;
+    padding:2% !important;
 }
 #startAbout{
   display: none;
